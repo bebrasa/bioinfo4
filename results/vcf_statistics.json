@@ -1,0 +1,11 @@
+{
+  "file": "student_08.vcf",
+  "n_records": 50,
+  "n_snv": 50,
+  "chrom_21": 10,
+  "chrom_22": 40,
+  "transitions": 40,
+  "transversions": 10,
+  "ti_tv": 4.0,
+  "assembly": "GRCh38"
+}

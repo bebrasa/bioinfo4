@@ -1,0 +1,52 @@
+{
+  "input_vcf": "student_08.vcf",
+  "assembly": "GRCh38",
+  "n_variants": 50,
+  "queried_on": "2026-11-02",
+  "ensembl_software": {
+    "release": 116
+  },
+  "vep_endpoint": "POST https://rest.ensembl.org/vep/homo_sapiens/region",
+  "vep_parameters": {
+    "canonical": "1",
+    "mane": "1",
+    "hgvs": "1",
+    "numbers": "1",
+    "protein": "1",
+    "appris": "1",
+    "ccds": "1",
+    "uniprot": "1",
+    "domains": "1",
+    "xref_refseq": "1",
+    "variant_class": "1",
+    "flag_pick": "1",
+    "pick_order": "mane_select,mane_plus_clinical,canonical,appris,tsl,biotype,ccds,rank,length",
+    "AlphaMissense": "1"
+  },
+  "transcript_rule": "VEP flag_pick: MANE Select > MANE Plus Clinical > canonical > APPRIS > TSL > biotype > CCDS > consequence rank > transcript length. On the chosen transcript the most severe SO term is reported.",
+  "clinvar": {
+    "source": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar.vcf.gz",
+    "access": "tabix query of each variant position, allele matched on REF and ALT",
+    "file_date_header": "see clinvar_matches.vcf ##fileDate",
+    "classification_field": "CLNSIG (aggregate germline classification); conflicts in CLNSIGCONF"
+  },
+  "gnomad": {
+    "endpoint": "https://gnomad.broadinstitute.org/api",
+    "dataset": "gnomad_r4",
+    "assembly": "GRCh38",
+    "allele_frequency": "joint AC/AN (exomes + genomes). Exome-only and genome-only AF are stored separately.",
+    "faf95": "filtering allele frequency, 95% confidence, population maximum"
+  },
+  "summary_table": "results/annotated_variants.tsv (one row per input variant)",
+  "vcf_statistics": {
+    "file": "student_08.vcf",
+    "n_records": 50,
+    "n_snv": 50,
+    "chrom_21": 10,
+    "chrom_22": 40,
+    "transitions": 40,
+    "transversions": 10,
+    "ti_tv": 4.0,
+    "assembly": "GRCh38"
+  }
+}

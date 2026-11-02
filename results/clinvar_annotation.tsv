@@ -1,0 +1,51 @@
+rsid	chrom	pos	ref	alt	clinvar_record	clinvar_variation_id	allele_id	clinsig	clinsig_raw	clinsig_conflict	review_status	condition	condition_ids	hgvs	molecular_consequence	geneinfo	rs	origin	oncogenicity	clinical_impact
+rs116645811	21	25587758	G	A	нет															
+rs1057885	21	25592893	T	C	нет															
+rs7278168	21	25603910	C	T	нет															
+rs115683257	21	32650278	C	A	да	544577	533777	Benign/Likely benign	Benign/Likely_benign		criteria provided, multiple submitters, no conflicts	not provided; not specified; Developmental and epileptic encephalopathy, 53; Early-onset Parkinson disease 20	MedGen:C3661900|MedGen:CN169374|MONDO:MONDO:0033362,MedGen:C4479313,OMIM:617389|MONDO:MONDO:0014233,MedGen:C3809824,OMIM:615530,Orphanet:391411	NC_000021.9:g.32650278C>A	SO:0001583 missense_variant	SYNJ1:8867	115683257	1		
+rs115458101	21	33432763	G	A	да	749643	757753	Likely benign	Likely_benign		criteria provided, single submitter	Immunodeficiency 28	MONDO:MONDO:0013953,MedGen:C4013947,OMIM:614889,Orphanet:319547,Orphanet:319574	NC_000021.9:g.33432763G>A	SO:0001619 non-coding_transcript_variant,SO:0001819 synonymous_variant	TMEM50B:757|IFNGR2:3460	115458101	1		
+rs73901831	21	37065660	T	G	да	709520	728903	Benign	Benign		criteria provided, single submitter	not provided	MedGen:C3661900	NC_000021.9:g.37065660T>G	SO:0001819 synonymous_variant	PIGP:51227	73901831	1		
+rs116698978	21	38818580	G	A	нет															
+rs113417859	21	38819624	C	T	нет															
+rs116476013	21	38821689	C	T	да	783879	717206	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided	MedGen:C3661900	NC_000021.9:g.38821689C>T	SO:0001819 synonymous_variant	ETS2:2114	116476013	1		
+rs61737061	21	43094699	G	A	нет															
+rs2231495	22	17188416	T	C	да	1168873	1159063	Benign/Likely benign	Benign/Likely_benign		criteria provided, multiple submitters, no conflicts	Deficiency of adenosine deaminase 2; not specified; not provided	MONDO:MONDO:0014306,MedGen:C3887654,OMIM:615688,Orphanet:404553|MedGen:CN169374|MedGen:C3661900	NC_000022.11:g.17188416T>C	SO:0001583 missense_variant	ADA2:51816	2231495	1		
+rs34000365	22	19353405	G	A	да	714835	729016	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided; HIRA-related disorder	MedGen:C3661900|.	NC_000022.11:g.19353405G>A	SO:0001819 synonymous_variant	HIRA:7290	34000365	1		
+rs115157927	22	19385577	A	T	да	3525634	3682487	Uncertain significance	Uncertain_significance		criteria provided, single submitter	not specified	MedGen:CN169374	NC_000022.11:g.19385577A>T	SO:0001583 missense_variant	HIRA:7290		1		
+rs5993890	22	19971306	G	A	да	1242019	1232794	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided	MedGen:C3661900	NC_000022.11:g.19971306G>A	SO:0001819 synonymous_variant	ARVCF:421	5993890	1		
+rs114971216	22	19972976	C	T	да	709199	729032	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided	MedGen:C3661900	NC_000022.11:g.19972976C>T	SO:0001819 synonymous_variant	ARVCF:421	114971216	1		
+rs2073748	22	19981448	G	A	да	1288334	1278166	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided	MedGen:C3661900	NC_000022.11:g.19981448G>A	SO:0001583 missense_variant	ARVCF:421	2073748	1		
+rs80068543	22	19981520	C	T	да	1288326	1278158	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided	MedGen:C3661900	NC_000022.11:g.19981520C>T	SO:0001583 missense_variant	ARVCF:421	80068543	1		
+rs2073747	22	19981552	A	G	нет															
+rs61739341	22	21643930	G	A	нет															
+rs114880937	22	21974379	G	A	нет															
+rs61747143	22	23146672	C	T	нет															
+rs9680526	22	24183535	T	A	нет															
+rs114362926	22	24183562	C	T	нет															
+rs114572804	22	24187599	C	T	нет															
+rs74558263	22	24188053	C	T	да	777671	705830	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided	MedGen:C3661900	NC_000022.11:g.24188053C>T	SO:0001819 synonymous_variant	SUSD2:56241	74558263	1		
+rs17884212	22	28745929	A	G	нет															
+rs2240345	22	30461386	A	C	нет															
+rs115862749	22	30555417	G	A	нет															
+rs114565111	22	30555495	G	C	да	4261361	4368613	Uncertain significance	Uncertain_significance		criteria provided, single submitter	not specified	MedGen:CN169374	NC_000022.11:g.30555495G>C	SO:0001583 missense_variant	GAL3ST1:9514		1		
+rs112070427	22	30555895	G	A	нет															
+rs2267161	22	30557308	C	T	да	1230435	1219140	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided	MedGen:C3661900	NC_000022.11:g.30557308C>T	SO:0001583 missense_variant	GAL3ST1:9514	2267161	1		
+rs113930388	22	31089937	C	T	да	712286	729146	Benign	Benign		criteria provided, multiple submitters, no conflicts	not provided	MedGen:C3661900	NC_000022.11:g.31089937C>T	SO:0001583 missense_variant,SO:0001619 non-coding_transcript_variant,SO:0001623 5_prime_UTR_variant	SMTN:6525	113930388	1		
+rs11913728	22	31091696	C	T	нет															
+rs114015937	22	31091807	G	A	нет															
+rs34292278	22	31096795	C	T	да	4457563	4567848							NC_000022.11:g.31096795C>T	SO:0001583 missense_variant,SO:0001619 non-coding_transcript_variant,SO:0001627 intron_variant	SMTN:6525		0		
+rs2228619	22	31267856	C	G	нет															
+rs79923828	22	31278313	T	C	нет															
+rs34292743	22	33304411	G	A	да	95166	101066	Benign/Likely benign	Benign/Likely_benign		criteria provided, multiple submitters, no conflicts	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; Muscular dystrophy-dystroglycanopathy type B6; not specified; not provided	MONDO:MONDO:0013158,MedGen:C3150414,OMIM:613154,Orphanet:588,Orphanet:899|MONDO:MONDO:0012138,MedGen:C1837229,OMIM:608840|MedGen:CN169374|MedGen:C3661900	NC_000022.11:g.33304411G>A	SO:0001819 synonymous_variant	LARGE1:9215	34292743	1		
+rs63446460	22	33650610	C	G	да	158805	169760	Benign/Likely benign	Benign/Likely_benign		criteria provided, multiple submitters, no conflicts	not specified; not provided; Muscular dystrophy-dystroglycanopathy type B6; Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6	MedGen:CN169374|MedGen:C3661900|MONDO:MONDO:0012138,MedGen:C1837229,OMIM:608840|MONDO:MONDO:0013158,MedGen:C3150414,OMIM:613154,Orphanet:588,Orphanet:899	NC_000022.11:g.33650610C>G	SO:0001819 synonymous_variant	LARGE1:9215	63446460	1		
+rs115801300	22	33650633	G	T	нет															
+rs55634318	22	39231625	G	C	да	1188397	1178626	Benign/Likely benign	Benign/Likely_benign		criteria provided, multiple submitters, no conflicts	PDGFB-related disorder; not provided; not specified	.|MedGen:C3661900|MedGen:CN169374	NC_000022.11:g.39231625G>C	SO:0001819 synonymous_variant	PDGFB:5155	55634318	1		
+rs115673469	22	39744223	A	G	да	3845024	3954377	Likely benign	Likely_benign		criteria provided, single submitter	not specified	MedGen:CN169374	NC_000022.11:g.39744223A>G	SO:0001583 missense_variant	ENTHD1:150350		1		
+rs115302874	22	39744238	A	G	нет															
+rs114714334	22	39861847	C	T	нет															
+rs75296456	22	39862000	A	G	нет															
+rs115365592	22	40019319	C	T	нет															
+rs115264708	22	44891338	T	C	нет															
+rs6519902	22	44916364	G	A	нет															
+rs8135982	22	44916465	C	T	нет															
+rs114043304	22	44920488	A	G	нет															
